@@ -1,7 +1,91 @@
-p.serif {
-  font-family: "Times New Roman", Times, serif;
+.sans-serif {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 12px;
 }
 
-p.sansserif {
-  font-family: Arial, Helvetica, sans-serif;
+.serif {
+  font-family: "Times New Roman", Georgia, serif;
+  font-weight: bold;
+  font-size: 14px;
 }
+
+.monospace {
+  font-family: "Courier New", monospace;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.fancy-font {
+  font-family: Cursive, fantasy;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 18px;
+}
+
+.underline-text {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.highlight-text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 24px;
+}
+
+.red-text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  color: red;
+}
+
+.green-text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 14px;
+  color: green;
+}
+
+.blue-background {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  font-size: 16px;
+  background-color: yellow;
+}
+
+.large-text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 30px;
+}
+.font1 {
+  font-family: Georgia, serif, Times, "Times New Roman", sans-serif;
+  font-size: 12px;
+}
+.font2 {
+  font-family: Verdana, sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+}
+.font3 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: normal;
+  font-size: 16px;
+}
+.font4 {
+  font-family: "Courier New", monospace;
+  font-weight: normal;
+  font-size: 14px;
+}
+.font5 {
+  font-family: Tahoma, sans-serif;
+  font-weight: normal;
+  font-size: 12px;
+}
+
+
